@@ -1,5 +1,6 @@
 # Морфологический анализатор.  Morphological analyzer
-**Цель проекта ** - создание морфологического анализатора для `русского языка`, без использования готовых решений (mystem, pymorphy, etc.).
+
+**Цель проекта** - создание морфологического анализатора для `русского языка`, без использования готовых решений (mystem, pymorphy, etc.).
 
 Морфологический анализатор — программа для анализа морфологии слова, которая выявляет морфемы любого текста.
 
@@ -25,6 +26,4 @@ A morphological analyzer is a program for analyzing the morphology of an input w
 
 | File | Description |
 | --- | --- |
-| Morph_analyzer.ipynb | Морфологический анализатор для русского языка. В качестве исходного словаря используется "Морфологический словарь русского языка, GNU FDL 2012" (https://morfologija.ru/словоформа/)
-
-Morphological analyzer for the Russian language. The "Morphological Dictionary of the Russian Language, GNU FDL 2012" is used as the source dictionary. (https://morfologija.ru/словоформа/) |
+| Morph_analyzer.ipynb | Морфологический анализатор для русского языка. В качестве исходного словаря используется "Морфологический словарь русского языка, GNU FDL 2012" (https://morfologija.ru/словоформа/).   Morphological analyzer for the Russian language. The "Morphological Dictionary of the Russian Language, GNU FDL 2012" is used as the source dictionary. (https://morfologija.ru/словоформа/) |
